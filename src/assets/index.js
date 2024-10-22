@@ -57,17 +57,17 @@ import notification2 from "./notification/image-2.png";
 import notification3 from "./notification/image-3.png";
 import notification4 from "./notification/image-4.png";
 
-const benefitCard1 = "/benefits/card-1.svg";
-const benefitCard2 = "/benefits/card-2.svg";
-const benefitCard3 = "/benefits/card-3.svg";
-const benefitCard4 = "/benefits/card-4.svg";
-const benefitCard5 = "/benefits/card-5.svg";
-const benefitCard6 = "/benefits/card-6.svg";
-const benefitIcon1 = "/benefits/icon-1.svg";
-const benefitIcon2 = "/benefits/icon-2.svg";
-const benefitIcon3 = "/benefits/icon-3.svg";
-const benefitIcon4 = "/benefits/icon-4.svg";
-const benefitImage2 = "/benefits/image-2.png";
+export const benefitCard1 = "/benefits/card-1.svg";
+export const benefitCard2 = "/benefits/card-2.svg";
+export const benefitCard3 = "/benefits/card-3.svg";
+export const benefitCard4 = "/benefits/card-4.svg";
+export const benefitCard5 = "/benefits/card-5.svg";
+export const benefitCard6 = "/benefits/card-6.svg";
+export const benefitIcon1 = "/benefits/icon-1.svg";
+export const benefitIcon2 = "/benefits/icon-2.svg";
+export const benefitIcon3 = "/benefits/icon-3.svg";
+export const benefitIcon4 = "/benefits/icon-4.svg";
+export const benefitImage2 = "/benefits/image-2.png";
 
 import discordBlack from "./socials/discord.svg";
 import facebook from "./socials/facebook.svg";
@@ -128,17 +128,17 @@ export {
   notification2,
   notification3,
   notification4,
-  benefitCard1,
-  benefitCard2,
-  benefitCard3,
-  benefitCard4,
-  benefitCard5,
-  benefitCard6,
-  benefitIcon1,
-  benefitIcon2,
-  benefitIcon3,
-  benefitIcon4,
-  benefitImage2,
+  // benefitCard1,
+  // benefitCard2,
+  // benefitCard3,
+  // benefitCard4,
+  // benefitCard5,
+  // benefitCard6,
+  // benefitIcon1,
+  // benefitIcon2,
+  // benefitIcon3,
+  // benefitIcon4,
+  // benefitImage2,
   discordBlack,
   facebook,
   instagram,
