@@ -44,7 +44,7 @@ const Roadmap = () => (
                         height={16}
                         alt={status}
                       />
-                      {/* <div className="tagline">{status}</div> */}
+                      <div className="tagline">{status}</div>
                     </div>
                   </div>
 
