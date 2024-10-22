@@ -57,17 +57,17 @@ import notification2 from "./notification/image-2.png";
 import notification3 from "./notification/image-3.png";
 import notification4 from "./notification/image-4.png";
 
-import benefitCard1 from "./benefits/card-1.svg";
-import benefitCard2 from "./benefits/card-2.svg";
-import benefitCard3 from "./benefits/card-3.svg";
-import benefitCard4 from "./benefits/card-4.svg";
-import benefitCard5 from "./benefits/card-5.svg";
-import benefitCard6 from "./benefits/card-6.svg";
-import benefitIcon1 from "./benefits/icon-1.svg";
-import benefitIcon2 from "./benefits/icon-2.svg";
-import benefitIcon3 from "./benefits/icon-3.svg";
-import benefitIcon4 from "./benefits/icon-4.svg";
-import benefitImage2 from "./benefits/image-2.png";
+const benefitCard1 = "/benefits/card-1.svg";
+const benefitCard2 = "/benefits/card-2.svg";
+const benefitCard3 = "/benefits/card-3.svg";
+const benefitCard4 = "/benefits/card-4.svg";
+const benefitCard5 = "/benefits/card-5.svg";
+const benefitCard6 = "/benefits/card-6.svg";
+const benefitIcon1 = "/benefits/icon-1.svg";
+const benefitIcon2 = "/benefits/icon-2.svg";
+const benefitIcon3 = "/benefits/icon-3.svg";
+const benefitIcon4 = "/benefits/icon-4.svg";
+const benefitImage2 = "/benefits/image-2.png";
 
 import discordBlack from "./socials/discord.svg";
 import facebook from "./socials/facebook.svg";
