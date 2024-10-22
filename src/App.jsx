@@ -5,7 +5,7 @@ import Collaboration from "./components/Collaboration";
 import { Hero } from "./components/Hero";
 import Services from "./components/Services";
 import Pricing from "./components/Pricing";
-// import Roadmap from "./components/Roadmap";
+import Roadmap from "./components/Roadmap";
 import Footer from "./components/Footer";
 
 const App = () => {
@@ -18,7 +18,7 @@ const App = () => {
         <Collaboration />
         <Services />
         <Pricing />
-        {/* <Roadmap /> */}
+        <Roadmap />
         <Footer />
       </div>
       <ButtonGradient />
