@@ -15,7 +15,7 @@ Brainwave-sm is a **generative AI chat application** designed to boost user prod
 
 ---
 
-## Table of Contents
+## 📑 Table of Contents
 
 - [Demo](#demo)
 - [Features](#features)
@@ -28,13 +28,13 @@ Brainwave-sm is a **generative AI chat application** designed to boost user prod
 
 ---
 
-## Demo
+## 🎬 Demo
 
 > You can deploy a local instance by following the installation steps below.
 
 ---
 
-## Features
+## ✨ Features
 
 - Interactive **AI chat** for text, images, and video.
 - **Parallax and animation effects** for a visually engaging experience.
@@ -46,7 +46,7 @@ Brainwave-sm is a **generative AI chat application** designed to boost user prod
 
 ---
 
-## Technologies
+## 🛠️ Technologies
 
 **Frontend:**
 
@@ -64,7 +64,7 @@ Brainwave-sm is a **generative AI chat application** designed to boost user prod
 
 ---
 
-## Installation
+## 🚀 Installation
 
 1. Clone the repository:
 
@@ -105,7 +105,7 @@ npm run preview
 
 ---
 
-## Usage
+## 📖 Usage
 
 - Navigate through sections: **Hero**, **Services**, **Pricing**, **Roadmap**.
 - Interact with **sample chat messages** and video bars.
@@ -113,7 +113,7 @@ npm run preview
 
 ---
 
-## Project Structure
+## 📂 Project Structure
 
 ```
 Brainwave-sm/
@@ -137,7 +137,7 @@ Brainwave-sm/
 
 ---
 
-## Contributing
+## 🤝 Contributing
 
 This project is **personal**, but you can reach out for collaboration or code review:
 
@@ -145,7 +145,7 @@ This project is **personal**, but you can reach out for collaboration or code re
 
 ---
 
-## License
+## ⚖️ License
 
 This project is **private** and currently **does not have a public license**. Please contact me for more information regarding usage or collaboration.
 
