@@ -139,7 +139,7 @@ Brainwave-sm/
 
 ## Contributing
 
-This project is **personal and private**, but you can reach out for collaboration or code review:
+This project is **personal**, but you can reach out for collaboration or code review:
 
 [![LinkedIn](https://img.shields.io/badge/-Salvador%20Martinez%20SM-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salvador-martinez-sm/)
 
