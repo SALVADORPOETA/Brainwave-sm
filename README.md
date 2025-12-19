@@ -151,4 +151,4 @@ This project is **private** and currently **does not have a public license**. Pl
 
 ---
 
-**Made with ❤️ by Salvador Martinez**
+**Made by Salvador Martinez**
