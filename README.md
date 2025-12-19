@@ -1,6 +1,5 @@
 # Brainwave
 
-
 > Based on a tutorial by **JavaScript Mastery**
 
 [![LinkedIn](https://img.shields.io/badge/-Salvador%20Martinez%20SM-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salvador-martinez-sm/)
