@@ -2,11 +2,6 @@
 
 > Based on a tutorial by **JavaScript Mastery**
 
-[![LinkedIn](https://img.shields.io/badge/-Salvador%20Martinez%20SM-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salvador-martinez-sm/)
-[![React](https://img.shields.io/badge/React-18-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/)
-[![Vite](https://img.shields.io/badge/Vite-5-646CFF?style=flat&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind-3-06B6D4?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-
 Brainwave-sm is a **generative AI chat application** designed to boost user productivity and creativity through AI-powered text, image, and video generation. Built with **React**, **Vite**, and styled using **TailwindCSS**, the app features interactive animations and parallax effects with **react-just-parallax**.
 
 **Repository:** [https://github.com/SALVADORPOETA/Brainwave-sm](https://github.com/SALVADORPOETA/Brainwave-sm)
