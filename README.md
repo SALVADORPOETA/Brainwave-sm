@@ -133,7 +133,7 @@ This project is **personal**, but you can reach out for collaboration or code re
 
 ## ⚖️ License
 
-This project is **private** and currently **does not have a public license**. Please contact me for more information regarding usage or collaboration.
+This is a personal portfolio project by Salvador Martinez based on a JavaScript Mastery tutorial. No commercial use intended.
 
 ---
 
