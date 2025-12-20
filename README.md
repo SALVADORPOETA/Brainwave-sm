@@ -12,7 +12,6 @@ Brainwave-sm is a **generative AI chat application** designed to boost user prod
 
 ## 📑 Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
 - [Technologies](#technologies)
 - [Installation](#installation)
@@ -20,12 +19,6 @@ Brainwave-sm is a **generative AI chat application** designed to boost user prod
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
-
----
-
-## 🎬 Demo
-
-> You can deploy a local instance by following the installation steps below.
 
 ---
 
