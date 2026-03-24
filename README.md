@@ -24,7 +24,6 @@ Brainwave-sm is a **generative AI chat application** designed to boost user prod
 
 ## ✨ Features
 
-- Interactive **AI chat** for text, images, and video.
 - **Parallax and animation effects** for a visually engaging experience.
 - **Services section** with sample chat messages and video progress bars.
 - **Roadmap section** displaying development progress.
@@ -100,7 +99,6 @@ npm run preview
 ## 📖 Usage
 
 - Navigate through sections: **Hero**, **Services**, **Pricing**, **Roadmap**.
-- Interact with **sample chat messages** and video bars.
 - Explore **parallax effects** while scrolling.
 
 <img width="761" height="629" alt="brainwave4" src="https://github.com/user-attachments/assets/defec9f8-6423-4acd-89c7-411c118d3939" />
