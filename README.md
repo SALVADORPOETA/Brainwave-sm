@@ -18,6 +18,8 @@ Brainwave-sm is a **generative AI chat application** designed to boost user prod
 - [Contributing](#contributing)
 - [License](#license)
 
+<img width="763" height="625" alt="brainwave1" src="https://github.com/user-attachments/assets/b8faed08-e5fb-48eb-b984-3d70b219e67b" />
+
 ---
 
 ## ✨ Features
@@ -29,6 +31,8 @@ Brainwave-sm is a **generative AI chat application** designed to boost user prod
 - **Pricing section** showing plans and details.
 - Fully **responsive** and optimized for all screen sizes.
 - **Vite-powered** for fast development and builds.
+
+<img width="763" height="627" alt="brainwave2" src="https://github.com/user-attachments/assets/51b1310b-a5a4-41aa-bc1b-50fd8e289341" />
 
 ---
 
@@ -47,6 +51,8 @@ Brainwave-sm is a **generative AI chat application** designed to boost user prod
 - ESLint for code linting
 - PostCSS & Autoprefixer
 - TypeScript type support (installed)
+
+<img width="757" height="625" alt="brainwave3" src="https://github.com/user-attachments/assets/9258ff90-b9ba-4d70-a7ce-f31bf4d0bd55" />
 
 ---
 
@@ -97,6 +103,8 @@ npm run preview
 - Interact with **sample chat messages** and video bars.
 - Explore **parallax effects** while scrolling.
 
+<img width="761" height="629" alt="brainwave4" src="https://github.com/user-attachments/assets/defec9f8-6423-4acd-89c7-411c118d3939" />
+
 ---
 
 ## 📂 Project Structure
@@ -128,6 +136,8 @@ Brainwave-sm/
 This project is **personal**, but you can reach out for collaboration or code review:
 
 [![LinkedIn](https://img.shields.io/badge/-Salvador%20Martinez%20SM-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salvador-martinez-sm/)
+
+<img width="761" height="635" alt="brainwave5" src="https://github.com/user-attachments/assets/21272f27-98ee-40ac-aef4-7ba94497f32b" />
 
 ---
 
