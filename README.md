@@ -4,7 +4,7 @@
 
 Brainwave-sm is a **generative AI chat application** designed to boost user productivity and creativity through AI-powered text, image, and video generation. Built with **React**, **Vite**, and styled using **TailwindCSS**, the app features interactive animations and parallax effects with **react-just-parallax**.
 
-<img width="763" height="625" alt="brainwave1" src="https://github.com/user-attachments/assets/b8faed08-e5fb-48eb-b984-3d70b219e67b" />
+<img width="763" height="625" alt="brainwave" src="https://github.com/user-attachments/assets/47dbd36e-c057-4b87-8c08-7f44af1cc262" />
 
 ---
 
@@ -52,6 +52,8 @@ Brainwave-sm is a **generative AI chat application** designed to boost user prod
 - TypeScript type support (installed)
 
 ![brainwave](https://github.com/user-attachments/assets/d40281de-8233-4e32-af2f-59af1e5536d4)
+
+<img width="763" height="603" alt="brainwave1" src="https://github.com/user-attachments/assets/4e41076d-11be-4832-b283-90de3cc6d634" />
 
 ---
 
