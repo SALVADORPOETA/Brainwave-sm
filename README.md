@@ -51,8 +51,6 @@ Brainwave-sm is a **generative AI chat application** designed to boost user prod
 - PostCSS & Autoprefixer
 - TypeScript type support (installed)
 
-![brainwave](https://github.com/user-attachments/assets/d40281de-8233-4e32-af2f-59af1e5536d4)
-
 <img width="763" height="603" alt="brainwave1" src="https://github.com/user-attachments/assets/4e41076d-11be-4832-b283-90de3cc6d634" />
 
 ---
